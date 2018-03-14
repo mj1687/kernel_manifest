@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com"
+           review="https://android-review.googlesource.com/" />
+
+
+  <project path="source_5t" name="DiscoveryTeam/kernel_oneplus_msm8998" remote="github" revision="8.1-test" />
+  <project path="gcc-aarch64" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="aosp" revision="android-8.1.0_r18" />
+
+  </manifest>
