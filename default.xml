@@ -10,7 +10,7 @@
 
 
   <project path="source_5t" name="DiscoveryTeam/kernel_oneplus_msm8998" remote="github" revision="8.1-test" />
-  <project path="gcc-aarch64" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="aosp" revision="android-8.1.0_r18" />
+  <project path="gcc-aarch64" name="rajatgupta1998/platform_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" remote="github" revision="gcc-4.9" />
   <project path="flasher" name="jcadduono/lazyflasher" remote="github" revision="kernel-flasher" />
 
   </manifest>
